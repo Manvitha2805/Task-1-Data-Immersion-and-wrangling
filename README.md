@@ -1,4 +1,4 @@
-# Task 1: Data Wrangling amd Feature Engineering
+# Task 1: Data Wrangling and Feature Engineering
 ## Objective
 To clean and preprocess the Amazon sales dataset by handling missing values, removing duplicates, converting data types, nd performing feature engineering. 
 
