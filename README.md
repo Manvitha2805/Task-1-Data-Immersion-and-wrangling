@@ -22,7 +22,7 @@ To clean and preprocess the Amazon sales dataset by handling missing values, rem
   - Python
   - Pandas
 
- ## Files Included
+ ## Deliverables
   - Data_Dictionary.xlsx
   - TASK1_Data_Wrangling_and_Feature_Engineering
   - task1_cleaned_engineered _dataset
